@@ -1,6 +1,9 @@
 # threejs-bounce
 
-Hello!
+Hello! 
+
+
+
 
 In this project there are spheres bouncing, the amount of spheres and their movements/size/color can be altered.
 
