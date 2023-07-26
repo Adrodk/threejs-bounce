@@ -18,4 +18,14 @@ They could also be mouse driven to add interactivity for the browsing user.
 
 
 
+![ezgif com-optimize](https://github.com/Ladcod/threejs-bounce/assets/126636667/c295135a-20ab-4c12-9978-2910b89e2bce)
+
+
+
+This gif is an example, it does not portray the correct gravity or movement of the spheres but gives the user a general idea from different angles.
+
+
+
+
+
 WIP
